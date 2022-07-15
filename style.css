@@ -1,0 +1,71 @@
+body {
+  background: #2f2f2f;
+  align-items: center;
+  background-image: url("https://wallpaper.dog/large/17130291.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.foto-debussy{ 
+padding: 90px
+}
+
+.tema {
+  color: #ffcb74;
+}
+.imagen-#2{ 
+align-items: center;
+}
+
+h3 {
+  color: #ffcb74;
+}
+Main {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  color: #ffcb74;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #000000;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #2f2f2f;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}

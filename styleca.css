@@ -1,0 +1,51 @@
+body {
+  background: #2f2f2f;
+  align-items: center;
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/677/228/927/piano-musical-instrument-monochrome-dust-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+html  {
+        
+        font-family: 'Noto Serif', serif;
+        -webkit-font-smoothing: antialiased;
+        text-align: center;
+      }
+}
+
+Main {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  color: #F2F2F2;
+}
+
+.Chopan { 
+color: #FFCB74;
+}
+
+.pachebel{ 
+  color:#FFCB74;
+}
+.fur-elise{ 
+color: #FFCB74;
+}
+
+ul{ 
+Color:#FFCB74;
+}
+ 
+.tema{
+  color: #FFCB74;
+}
+.tema-claire{
+  color: #FFCB74;
+}
+
+.cancion1{
+  
+  border-radius: 20px;
+}
